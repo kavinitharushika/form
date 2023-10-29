@@ -3,7 +3,7 @@
 body {
   font-family: "poppins", sans-serif;
   color: #101010;
-  background-color: #ffffff;
+  background-color: #d12d2d;
 }
 
 .layout_padding {
@@ -126,7 +126,7 @@ a:focus {
 .navbar-brand span {
   font-size: 28px;
   font-weight: bold;
-  color: #000000;
+  color: #5d0505;
   text-transform: uppercase;
   margin: 0;
   padding: 0;
