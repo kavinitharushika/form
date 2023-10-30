@@ -2,8 +2,8 @@
 @import url("font-awesome.min.css");
 body {
   font-family: "poppins", sans-serif;
-  color: #101010;
-  background-color: #d12d2d;
+  color: #d11111;
+  background-color: #73a713;
 }
 
 .layout_padding {
@@ -78,10 +78,10 @@ body {
 }
 
 #navbarSupportedContent.innerpage_navbar {
-  background-color: white;
+  background-color: rgb(31, 25, 128);
   border-radius: 10px;
-  -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.25);
-          box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0 0 3px 0 rgba(93, 151, 26, 0.25);
+          box-shadow: 0 0 3px 0 rgba(194, 156, 156, 0.25);
 }
 
 #navbarSupportedContent.innerpage_navbar .nav-item.active .nav-link {
@@ -235,7 +235,7 @@ a:focus {
 .slider_section .slider_container {
   color: #fefefe;
   background-color: #000000;
-  background-color: #f89cab;
+  background-color: #501620;
   padding: 25px;
   border-radius: 0 0 15px 15px;
 }
